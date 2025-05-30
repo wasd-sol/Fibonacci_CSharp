@@ -1,4 +1,4 @@
-﻿class Program
+﻿class Fibonacci
 {
     public static void Main(string[] args)
     {
